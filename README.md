@@ -1,7 +1,7 @@
 
 # cloudinary-uploader
 
-WebApp Simpel untuk upload dan show images dari dan ke Cloudinary.
+WebApp & Package Simpel untuk upload dan show images dari dan ke Cloudinary.
 Dibangun menggunakan **Express JS**, **Cloudinary SDK**, dan **Tailwind CSS**
 
 ![enter image description here](https://res.cloudinary.com/ipz/image/upload/v1717306402/uploads/jpixll8obuyo9aufn54y.png)
