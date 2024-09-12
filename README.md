@@ -1,7 +1,7 @@
 
 # cloudinary-uploader
 
-Simple WebApp for Upload & Fetching using Cloudinary  and Basic Auth!
+WebApp Simpel untuk upload dan show dari dan ke Cloudinary.
 Build with **Express JS**, **Cloudinary SDK** and **Tailwind CSS**
 
 ![enter image description here](https://res.cloudinary.com/ipz/image/upload/v1717306402/uploads/jpixll8obuyo9aufn54y.png)
